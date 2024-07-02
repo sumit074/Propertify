@@ -1,5 +1,5 @@
 import {BrowserRouter,Routes,Route} from 'react-router-dom'
-import SignOut from './pages/Signout'
+import SignOut from './pages/SignUp'
 import SignIn from './pages/Signin'
 import Profile from './pages/Profile'
 import About from './pages/About'
